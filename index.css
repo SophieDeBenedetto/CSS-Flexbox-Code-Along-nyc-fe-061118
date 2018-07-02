@@ -18,7 +18,7 @@ main {
   /*flex-wrap: wrap;*/
   /*flex-direction: column;*/
   flex-flow: wrap;
-  justify-content: center;
+  /*justify-content: center;*/
   flex-end: right;
 }
 
