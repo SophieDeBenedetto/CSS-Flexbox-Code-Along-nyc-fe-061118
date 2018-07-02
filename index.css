@@ -18,8 +18,8 @@ main {
   /*flex-wrap: wrap;*/
   /*flex-direction: column;*/
   flex-flow: wrap;
-  /*justify-content: center;*/
-  flex-end: right;
+  justify-content: flex-end;
+
 }
 
 
